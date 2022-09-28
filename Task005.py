@@ -25,4 +25,4 @@ firstPoint = inputNumbers(2)
 print("Введите координаты второй точки")
 secondPoint = inputNumbers(2)
 
-print(f"Расстояние между введеными Вами точками в 2D пространстве = {format(measureLength(firstPoint, secondPoint), '.3f')}")
+print(f"Расстояние между введенными Вами точками в 2D пространстве = {format(measureLength(firstPoint, secondPoint), '.3f')}")
